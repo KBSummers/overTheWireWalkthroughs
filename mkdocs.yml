@@ -1,0 +1,32 @@
+site_name: OverTheWire Walkthroughs
+site_description: Walkthroughs for OverTheWire wargames (Natas, Bandit, etc.)
+site_author: Kyle Summers
+repo_url: https://github.com/KBSummers/overTheWireWalkthroughs
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - toc.integrate
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Natas:
+      - Overview: natas/README.md
+      - Natas 0: natas/natas0.md
+      - Natas 1: natas/natas1.md
+      - Natas 2: natas/natas2.md
+  - Bandit:
+      - Overview: bandit/README.md
+      - Bandit 0: bandit/bandit0.md
+      - Bandit 1: bandit/bandit1.md
+      - Bandit 2: bandit/bandit2.md
+  - Docs:
+      - Methodology: docs/methodology.md
+      - Tools: docs/tools.md
+      - References: docs/references.md
+
