@@ -55,6 +55,47 @@ Open http://127.0.0.1:8000 in your browser.
 
 ---
 
+
+## Local Development (Python virtual environment + MkDocs)
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/overTheWireWalkthroughs.git
+cd overTheWireWalkthroughs
+```
+
+### 2. Create a Python virtual environment
+```bash
+python3 -m venv .venv
+```
+
+### 3. Activate the virtual environment
+
+- **Linux / macOS**
+```bash
+source .venv/bin/activate
+```
+
+- **Windows (PowerShell)**
+*** NOTE: I was required to change the execution policy first before running Activate script. You might not need this.
+```powershell
+Set-ExecutionPolicy Unrestricted -Scope Process
+.venv\Scripts\Activate.ps1
+```
+
+### 4. Install MkDocs and Material theme
+```bash
+pip install mkdocs mkdocs-material
+```
+
+### 5. Run the local development server
+```bash
+mkdocs serve
+```
+
+Open [http://127.0.0.1:8000](http://127.0.0.1:8000) in your browser to preview the site.
+---
+
 ## License
 This project is licensed under the MIT License. See `LICENSE`.
 
