@@ -20,6 +20,10 @@ nav:
       - Natas 0: natas/natas0.md
       - Natas 1: natas/natas1.md
       - Natas 2: natas/natas2.md
+      - Natas 3: natas/natas3.md
+      - Natas 4: natas/natas4.md
+      - Natas 5: natas/natas5.md
+      - Natas 6: natas/natas6.md
   - Bandit:
       - Overview: bandit/README.md
       - Bandit 0: bandit/bandit0.md
