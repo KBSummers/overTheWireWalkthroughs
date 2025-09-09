@@ -33,4 +33,6 @@ nav:
       - Methodology: docs/methodology.md
       - Tools: docs/tools.md
       - References: docs/references.md
+extra_css:
+  - stylesheets/extra.css
 
