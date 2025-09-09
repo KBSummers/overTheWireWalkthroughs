@@ -10,7 +10,10 @@ Visit the page at https://natas0.natas.labs.overthewire.org. Enter the username:
 Short bullets summarizing the concept(s) learned.
 
 ## Password
-The flag/password (clearly marked).
+### To get to This Level
+Not required
+### To get to Next Level
+>! 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
 
----
+
 
