@@ -4,7 +4,7 @@ Familiarize yourself with the structure of the challenges and utilize basic know
 
 ## Walkthrough
 Visit the page at https://natas0.natas.labs.overthewire.org. Enter the username:password natas0:natas0 and the page should hint that the password for the next level is on this page somewhere. Check in body of the HTML by inspecting page source or dev tools, and you will see the password in a comment.
-![natas comments](../../images/natas0_0.png)
+![natas 0 comments](../images/natas0_0.png)
 
 ## Key Takeaways
 Short bullets summarizing the concept(s) learned.
