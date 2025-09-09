@@ -13,9 +13,7 @@ Short bullets summarizing the concept(s) learned.
 ### To get to This Level
 Not required
 ### To get to Next Level
-
-<details> <summary>
+<div class="blurred-text">
 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
-</summary> </details>
-
+</div>
 
