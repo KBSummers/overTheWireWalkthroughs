@@ -8,3 +8,16 @@
 .blurred-text.revealed {
     filter: blur(0);
 }
+
+body,
+.md-content,
+.md-main,
+.md-typeset {
+    background-color: #222 !important;
+    color: #fff !important;
+}
+
+/* Optional: ensure links are visible */
+a {
+    color: #90caf9 !important;
+}
