@@ -13,7 +13,7 @@ Natas focuses on web security basics: information disclosure, input/encoding qui
 ## Files in this folder
 - `README.md` — this file
 - `natas0.md`, `natas1.md`, `natas2.md`, ... — individual writeups
-- Optionally: images used by writeups in `../shared-resources/images/`
+- Optionally: images used by writeups in the `images` directory in the root folder
 
 ---
 
