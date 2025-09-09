@@ -7,7 +7,7 @@ Visit the page at https://natas0.natas.labs.overthewire.org. Enter the username:
 ![natas 0 comments](../docs/images/natas0_0.png)
 
 ## Key Takeaways
-Short bullets summarizing the concept(s) learned.
+Dont hide useful info in source code
 
 ## Password
 ### To get to This Level
