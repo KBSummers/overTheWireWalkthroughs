@@ -4,7 +4,7 @@ Find flag through general recon and directory traversal
 
 ## Walkthrough
 
-When we visit the page for the site, we can see two link for Home and About
+When we visit the page for the site, we can see two links for Home and About
 
 ![natas 7 passwd page](../docs/images/natas7_2.png)
 

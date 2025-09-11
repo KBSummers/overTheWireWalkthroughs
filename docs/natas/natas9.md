@@ -1,4 +1,4 @@
-# Natas 8
+# Natas 9
 ## Goal
 Find flag through general recon and directory traversal
 
@@ -17,7 +17,7 @@ Take the result and input into our secret form to obtain the password for the ne
 ![natas 7 passwd page](../docs/images/natas8_1.png)
 
 ## Key Takeaways
-Dont leve valuable information in source code.
+URL Paramters can be risky for sites
 
 ## Password
 ### To get to This Level
