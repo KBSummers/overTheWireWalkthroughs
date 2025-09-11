@@ -1,6 +1,6 @@
 # Natas 6
 ## Goal
-Determine secretes through keys in source code
+Determine secrets through keys in source code
 
 ## Walkthrough
 When we first visit the page, we see an input form asking for a secret, and also a link to 'view sourcecode'
